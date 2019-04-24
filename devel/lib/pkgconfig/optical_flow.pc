@@ -1,0 +1,8 @@
+prefix=/home/bzhouai/workspaces/5660_col_ws/devel
+
+Name: optical_flow
+Description: Description of optical_flow
+Version: 0.0.1
+Cflags: -I/home/bzhouai/workspaces/5660_col_ws/src/optical_flow/include
+Libs: -L/home/bzhouai/workspaces/5660_col_ws/devel/lib 
+Requires: 

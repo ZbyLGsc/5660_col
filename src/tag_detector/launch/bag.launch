@@ -1,0 +1,2 @@
+
+<!-- <node name="rosbag" pkg="rosbag" type="play" respawn="false" args="--delay=1 --queue=1000 $(find tag_detector)/bag/images.bag" /> -->

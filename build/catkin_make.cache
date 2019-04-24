@@ -1,0 +1,2 @@
+optical_flow:tag_detector
+-DCATKIN_DEVEL_PREFIX=/home/bzhouai/workspaces/5660_col_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bzhouai/workspaces/5660_col_ws/install -G Unix Makefiles

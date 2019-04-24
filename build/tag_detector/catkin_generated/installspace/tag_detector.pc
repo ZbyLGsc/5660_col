@@ -1,0 +1,8 @@
+prefix=/home/bzhouai/workspaces/5660_col_ws/install
+
+Name: tag_detector
+Description: Description of tag_detector
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/bzhouai/workspaces/5660_col_ws/install/lib 
+Requires: 
